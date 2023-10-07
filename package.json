@@ -1,0 +1,19 @@
+{
+  "name": "vrf-chainlink-lottery",
+  "version": "1.0.0",
+  "description": "Using chainlink's Verifiable Random Function to generate random number and use it to interact with web2 services",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emertech-aarti/VRF-Chainlink-Lottery.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emertech-aarti/VRF-Chainlink-Lottery/issues"
+  },
+  "homepage": "https://github.com/emertech-aarti/VRF-Chainlink-Lottery#readme"
+}
